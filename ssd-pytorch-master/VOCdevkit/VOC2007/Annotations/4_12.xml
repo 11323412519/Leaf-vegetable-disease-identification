@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>测试+</folder>
+	<filename>4_12.jpg</filename>
+	<path>C:\Users\13234\Desktop\测试+\4_12.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>1920</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Anthrax</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>320</xmin>
+			<ymin>463</ymin>
+			<xmax>637</xmax>
+			<ymax>1135</ymax>
+		</bndbox>
+	</object>
+</annotation>

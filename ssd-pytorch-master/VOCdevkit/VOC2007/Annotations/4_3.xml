@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>测试+</folder>
+	<filename>4_3.jpg</filename>
+	<path>C:\Users\13234\Desktop\测试+\4_3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3120</width>
+		<height>4160</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>blight</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>576</xmin>
+			<ymin>498</ymin>
+			<xmax>1944</xmax>
+			<ymax>2052</ymax>
+		</bndbox>
+	</object>
+</annotation>

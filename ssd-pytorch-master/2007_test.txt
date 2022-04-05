@@ -1,0 +1,33 @@
+/root/ssd-pytorch-master/VOCdevkit/VOC2007/JPEGImages/0_308.jpg 527,670,722,884,0 275,463,434,615,0 1,24,238,250,0 128,668,440,886,0 350,315,536,365,0 2,259,219,345,0 265,153,376,291,0
+/root/ssd-pytorch-master/VOCdevkit/VOC2007/JPEGImages/0_399.jpg 269,321,437,457,0 230,144,445,341,0 189,449,296,583,0 33,1,82,118,1
+/root/ssd-pytorch-master/VOCdevkit/VOC2007/JPEGImages/0_469.jpg 199,372,355,421,0 184,220,333,309,0 243,165,366,280,0 361,274,491,315,0 399,435,496,566,0 551,354,600,443,0 1,418,46,488,0 249,325,342,370,0 392,154,533,229,0
+/root/ssd-pytorch-master/VOCdevkit/VOC2007/JPEGImages/2_303.jpg 96,125,417,583,2
+/root/ssd-pytorch-master/VOCdevkit/VOC2007/JPEGImages/2_314.jpg 134,220,465,552,2
+/root/ssd-pytorch-master/VOCdevkit/VOC2007/JPEGImages/2_315.jpg 26,77,491,395,2
+/root/ssd-pytorch-master/VOCdevkit/VOC2007/JPEGImages/2_364.jpg 66,1,227,454,2 207,1,370,503,2 360,1,535,542,2
+/root/ssd-pytorch-master/VOCdevkit/VOC2007/JPEGImages/2_404.jpg 219,271,315,458,2
+/root/ssd-pytorch-master/VOCdevkit/VOC2007/JPEGImages/2_429.jpg 1,147,598,419,2
+/root/ssd-pytorch-master/VOCdevkit/VOC2007/JPEGImages/2_502.jpg 195,333,351,536,2
+/root/ssd-pytorch-master/VOCdevkit/VOC2007/JPEGImages/4_1.jpg 261,317,329,375,0
+/root/ssd-pytorch-master/VOCdevkit/VOC2007/JPEGImages/4_2.jpg 56,6,505,469,2
+/root/ssd-pytorch-master/VOCdevkit/VOC2007/JPEGImages/4_3.jpg 576,498,1944,2052,1
+/root/ssd-pytorch-master/VOCdevkit/VOC2007/JPEGImages/4_4.jpg 58,109,561,597,2
+/root/ssd-pytorch-master/VOCdevkit/VOC2007/JPEGImages/4_5.jpg 67,302,319,466,2 263,1,403,365,2 163,61,207,107,2
+/root/ssd-pytorch-master/VOCdevkit/VOC2007/JPEGImages/4_6.jpg 497,1312,1036,1585,0 1406,1042,1858,1516,0 419,2538,1188,2064,0 571,2845,1814,3129,0
+/root/ssd-pytorch-master/VOCdevkit/VOC2007/JPEGImages/4_7.jpg 303,1684,967,2148,0 826,2511,1253,3352,0 2280,1566,2780,2252,0 1594,1370,2076,1547,0 1094,1457,1412,2066,0 298,2198,989,2430,0 1094,2243,1557,2498,0
+/root/ssd-pytorch-master/VOCdevkit/VOC2007/JPEGImages/4_8.jpg 1110,2129,1980,3224,2
+/root/ssd-pytorch-master/VOCdevkit/VOC2007/JPEGImages/4_9.jpg 415,343,522,476,0 190,1,418,141,0
+/root/ssd-pytorch-master/VOCdevkit/VOC2007/JPEGImages/4_10.jpg 485,469,1855,2926,2
+/root/ssd-pytorch-master/VOCdevkit/VOC2007/JPEGImages/4_11.jpg 953,1089,1867,2352,1
+/root/ssd-pytorch-master/VOCdevkit/VOC2007/JPEGImages/4_12.jpg 320,463,637,1135,2
+/root/ssd-pytorch-master/VOCdevkit/VOC2007/JPEGImages/4_13.jpg 316,476,635,1137,2 2,49,396,335,2 295,30,403,135,1 59,1,150,46,1
+/root/ssd-pytorch-master/VOCdevkit/VOC2007/JPEGImages/4_14.jpg 122,133,207,194,1 337,168,447,244,1
+/root/ssd-pytorch-master/VOCdevkit/VOC2007/JPEGImages/4_15.jpg 28,168,80,225,2 133,20,368,151,2 286,156,402,235,1 49,284,306,492,2 57,437,238,627,2
+/root/ssd-pytorch-master/VOCdevkit/VOC2007/JPEGImages/4_16.jpg 148,206,387,358,0 466,149,651,367,0
+/root/ssd-pytorch-master/VOCdevkit/VOC2007/JPEGImages/4_17.jpg 85,151,214,214,1 240,46,301,101,1 315,118,388,182,1
+/root/ssd-pytorch-master/VOCdevkit/VOC2007/JPEGImages/4_18.jpg 293,145,577,556,2 48,152,102,208,2
+/root/ssd-pytorch-master/VOCdevkit/VOC2007/JPEGImages/4_19.jpg 45,120,162,209,2
+/root/ssd-pytorch-master/VOCdevkit/VOC2007/JPEGImages/4_20.jpg 86,223,250,389,2
+/root/ssd-pytorch-master/VOCdevkit/VOC2007/JPEGImages/4_21.jpg 1,121,87,187,1
+/root/ssd-pytorch-master/VOCdevkit/VOC2007/JPEGImages/4_24.jpg 305,131,521,491,2 58,81,343,362,2 112,312,360,525,2
+/root/ssd-pytorch-master/VOCdevkit/VOC2007/JPEGImages/4_25.jpg 4,1,581,368,2

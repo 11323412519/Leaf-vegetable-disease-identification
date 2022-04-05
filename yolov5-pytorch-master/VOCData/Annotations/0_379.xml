@@ -1,0 +1,38 @@
+<annotation>
+	<folder>0</folder>
+	<filename>0_379.jpg</filename>
+	<path>C:\Users\13234\Desktop\data\0\0_379.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Improper medication</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>75</xmin>
+			<ymin>134</ymin>
+			<xmax>220</xmax>
+			<ymax>516</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Improper medication</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>253</xmin>
+			<ymin>92</ymin>
+			<xmax>367</xmax>
+			<ymax>469</ymax>
+		</bndbox>
+	</object>
+</annotation>

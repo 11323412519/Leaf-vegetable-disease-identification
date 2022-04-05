@@ -1,0 +1,5 @@
+Anthrax 1 183 177 295
+Anthrax 155 127 488 429
+Anthrax 446 268 600 522
+blight 362 46 428 95
+blight 421 149 463 187
